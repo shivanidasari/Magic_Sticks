@@ -47,7 +47,3 @@ Output: Triangle with area around `26.83` drawn on the screen.
 
 * This is a GUI project, best run on a desktop with Python 3.x.
 * Replace or remove `winsound` if you're using Linux or macOS.
-
----
-
-Let me know if you'd like to include a sample input/output screenshot or if you'd like a version with Markdown formatting too.
